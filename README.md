@@ -32,7 +32,7 @@ A modern and responsive architecture landing page built using HTML and CSS. This
 ---
 
 ## 📸 Project Preview
-<img src="assets/ Screenshot 2026-02-19 212642.png" alt="Spectrum Landing Page Preview" width="100%">
+<img src="assets/Screenshot%202026-02-19%20212642.png" alt="Spectrum Landing Page Preview" width="100%">
 
 
 
